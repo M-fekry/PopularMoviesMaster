@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PopularMoviesMaster</string>
+    <string name="fav_btn">Add to Favorites</string>
+    <string name="unfav_btn">Remove from Favorites</string>
+</resources>
